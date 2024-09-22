@@ -1,0 +1,5 @@
+CC;1000001;Juan;Pérez
+CC;1000002;Ana;Gómez
+CC;1000003;Luis;Rodríguez
+CC;1000004;María;Martínez
+CC;1000005;Carlos;López

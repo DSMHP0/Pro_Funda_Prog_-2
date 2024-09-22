@@ -1,0 +1,5 @@
+1;Laptop;1500.50
+2;Teléfono;750.75
+3;Teclado;30.00
+4;Monitor;200.20
+5;Ratón;25.00
